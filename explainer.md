@@ -55,6 +55,7 @@ We aim to connect and get early feedback and insights from communities like WoT,
 
 The group needs close alignment with other incubation groups working on similar topics, including but not limited to the following:
 
+- [WebDX CG](https://www.w3.org/community/webdx/), 
 - [WebViews CG](https://www.w3.org/community/webview/), 
 - [MiniApps WG](https://www.w3.org/groups/wg/miniapps/),
 - [WinterTC](https://wintertc.org/)
