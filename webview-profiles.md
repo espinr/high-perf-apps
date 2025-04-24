@@ -24,7 +24,7 @@ This proposal aims to discuss **profile standards** (subsets of current specific
 
 In the last 35 years, the Web has grown unstoppably (and successfully) to cover the broadest use cases and scenarios, making _the only one_ universal platform. Consequently, web engines have evolved to support this evolution with a subsequent increase of size and device requirements. In some specific cases and applications, Web-based content or applications do not need full-fledged Web browsers or WebViews, just a reduced part of it.
 
-**MiniApps** is a concrete example of WebView-based content, that does not require a full implementation of Web standards. Indeed, MiniApp platforms use hybrid technologies but are close to Web standards (e.g., CSS modules, something like HTML, standard JavaScript and APIs). Still, these platforms are fragmented, so publishers cannot develop once and distribute the app to other platforms unless they use cross-platform solutions (e.g., [Taro](https://docs.taro.zone/en/docs/).  
+**MiniApps** is a concrete example of WebView-based content, that does not require a full implementation of Web standards. Indeed, MiniApp platforms use hybrid technologies but are close to Web standards (e.g., CSS modules, something like HTML, standard JavaScript and APIs). Still, these platforms are fragmented, so publishers cannot develop once and distribute the app to other platforms unless they use cross-platform solutions (e.g., [Taro](https://docs.taro.zone/en/docs/)).  
 
 Other examples are WebViews for apps running on **devices with limited capabilities**, like e-ink interactive appliance controls or non-visual interfaces. In this case, the WebView must be lighter and align with the available resources.    
 
